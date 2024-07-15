@@ -1,4 +1,4 @@
-# **Alura Latam & ONE - Oracle Next Education**
+# **Alura e ONE - Oracle Next Education**
 # Challenge: LiterAlura 📖
 
 ## Descrição
